@@ -79,7 +79,7 @@ class App extends React.Component{
              <Route path ='/register' component={Register}/>
             <Route path='/login' component={Login}/>
             <Route path='/home'  component={Home} exact={true} />
-              <Home/>
+              
                 </div>
                 </BrowserRouter>
                 
